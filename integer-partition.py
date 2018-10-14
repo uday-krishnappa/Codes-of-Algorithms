@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 def int_parti(row,column):
 
     #Defining matrix with row and column size
